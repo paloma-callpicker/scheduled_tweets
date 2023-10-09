@@ -66,3 +66,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "omniauth-linkedin-oauth2", "~> 1.0"
+gem "omniauth-rails_csrf_protection", "~> 1.0"
+
+gem "omniauth-linkedin", "~> 0.2.0"
